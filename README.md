@@ -18,5 +18,5 @@ This Gradio application is designed to facilitate the end-to-end creation of a Y
 
 ## Thanks and credits to:
 
-- This application wouldn't have been feasible without the groundwork completed by the researchers for the (GLIGEN)[https://github.com/gligen/GLIGEN] project. Their bounding box detector code was instrumental to making this work.
-- (Ultralytics)[https://github.com/ultralytics/ultralytics] for their incredible work on YOLOv8
+- This application wouldn't have been feasible without the groundwork completed by the researchers for the [GLIGEN](https://github.com/gligen/GLIGEN) project. Their bounding box detector code was instrumental to making this work.
+- [Ultralytics](https://github.com/ultralytics/ultralytics) for their incredible work on YOLOv8
